@@ -32,7 +32,6 @@ import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 import BarChartIcon from '@mui/icons-material/BarChart';
 import GroupIcon from '@mui/icons-material/Group';
-import PsychologyIcon from '@mui/icons-material/Psychology';
 import { useGame } from '../contexts/GameContext';
 import Timer from '../components/game/Timer';
 import themes from '../data/themes.json';
